@@ -26,6 +26,12 @@ Sistema de gestão e orçamentos para vidraçarias, com suporte offline e sincro
 **Tecnologias:** React, TypeScript, IndexedDB/Dexie e Supabase.  
 **Acesso:** código em repositório privado; demonstração disponível mediante autorização.
 
+### ERP Saúde (em desenvolvimento)
+Projeto de ERP para clínicas, com arquitetura documentada para administração, pacientes, agenda, atendimento e prontuário, financeiro e relatórios. A interface atual está concentrada no fluxo de filas e senhas; os demais módulos do MVP ainda estão em desenvolvimento.
+
+**Tecnologias planejadas/atuais:** React, TypeScript, Vite, Tailwind CSS e Supabase.  
+**Acesso:** projeto em desenvolvimento; demonstração disponível mediante autorização.
+
 ## Tecnologias e ferramentas
 
 React · JavaScript · TypeScript · Node.js · Supabase · PostgreSQL · Vite · Playwright · integrações e automações
