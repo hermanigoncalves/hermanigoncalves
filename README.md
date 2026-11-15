@@ -35,6 +35,7 @@ Sistema de gestão e orçamentos para vidraçarias, com suporte offline e sincro
 
 ### ERP Saúde
 Projeto de ERP para clínicas, com arquitetura documentada para administração, pacientes, agenda, atendimento e prontuário, financeiro e relatórios. A interface atual está concentrada no fluxo de filas e senhas; os demais módulos do MVP ainda estão em desenvolvimento.
+[Assistir ao vídeo de apresentação](https://drive.google.com/file/d/1dX-jK6aSxUQ8bVusbOB7-HCFQcBBwqaI/view?usp=sharing).  
 **Tecnologias planejadas/atuais:** React, TypeScript, Vite, Tailwind CSS e Supabase.
 
 > Os projetos privados e em desenvolvimento podem ser apresentados em demonstrações autorizadas. O repositório público acima permite consultar o código do WhatsApp-Fin.
