@@ -9,21 +9,21 @@ Atuo com implantação e suporte de sistemas de gestão, levantamento de necessi
 - Implantação, configuração e suporte de sistemas de gestão
 - Análise de processos e treinamento de usuários
 - Desenvolvimento de aplicações web e ferramentas internas
-- Integrações, automações e soluções para atendimento e operação
+- Integrações e automações para atendimento e operação
 
 ## Projetos em destaque
 
 ### CMIP Chamador
 Sistema de filas e chamada de senhas para recepção, profissionais de saúde, administração e painéis de TV. O projeto documenta autenticação, atualizações em tempo real e testes automatizados.
+
 **Tecnologias:** React, Vite, Supabase, PostgreSQL e Playwright.  
-[Ver repositório](https://github.com/hermanigoncalves/senhatest)
+**Acesso:** código em repositório privado; demonstração disponível mediante autorização.
 
 ### VidroFlow
-Aplicação de gestão e orçamentos para vidraçarias, pensada para continuar funcionando sem conexão e sincronizar os dados quando a internet voltar. O README também descreve geração de PDF e integrações de comunicação.
-**Tecnologias:** React, TypeScript, IndexedDB/Dexie e Supabase.  
-[Ver repositório](https://github.com/hermanigoncalves/VidroFlow)
+Sistema de gestão e orçamentos para vidraçarias, com suporte offline e sincronização posterior. O projeto também documenta geração de PDF e integrações de comunicação.
 
-> Alguns projetos estão em repositórios privados. Os links acima podem exigir acesso. Posso apresentar detalhes e demonstrações autorizadas durante uma conversa profissional.
+**Tecnologias:** React, TypeScript, IndexedDB/Dexie e Supabase.  
+**Acesso:** código em repositório privado; demonstração disponível mediante autorização.
 
 ## Tecnologias e ferramentas
 
