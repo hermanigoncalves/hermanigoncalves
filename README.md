@@ -40,4 +40,4 @@ React · JavaScript · TypeScript · Node.js · Supabase · PostgreSQL · Vite �
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/hermanigoncalves/) · [GitHub](https://github.com/hermanigoncalves)
+[LinkedIn](https://www.linkedin.com/in/hermanigoncalves/) · [WhatsApp](https://wa.me/5533984282601) · [GitHub](https://github.com/hermanigoncalves)
