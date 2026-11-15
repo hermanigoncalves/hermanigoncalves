@@ -14,10 +14,6 @@ Atuo com implantação e suporte de sistemas de gestão, levantamento de necessi
 
 ## Projetos públicos
 
-### [PedeAí — sistema de operação para restaurantes](https://github.com/hermanigoncalves/pedeaisistema)
-Aplicação para acompanhar pedidos e a operação do restaurante, com visão de mesas e Kanban, painel de cozinha e bar, painel para TV, check-in, conversas e analytics.
-**Tecnologias:** React, TypeScript, Vite, Supabase, Tailwind CSS e Vitest.
-
 ### [WhatsApp-Fin — gestão financeira e integração com WhatsApp](https://github.com/hermanigoncalves/WhatsApp-Fin)
 Projeto de gestão financeira com telas para contas, transações, lançamentos recorrentes, recibos, relatórios, orçamento e metas de economia. O repositório inclui um serviço de bot para WhatsApp e testes para lógica financeira, autenticação e schema.
 **Tecnologias:** React, TypeScript, Supabase, Node.js e Baileys.
