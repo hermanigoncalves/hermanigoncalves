@@ -33,7 +33,7 @@ Sistema de filas e chamada de senhas para recepção, profissionais de saúde, a
 Sistema de gestão e orçamentos para vidraçarias, com suporte offline e sincronização posterior. O projeto também documenta geração de PDF e integrações de comunicação.
 **Tecnologias:** React, TypeScript, IndexedDB/Dexie e Supabase.
 
-### ERP Saúde (em desenvolvimento)
+### ERP Saúde
 Projeto de ERP para clínicas, com arquitetura documentada para administração, pacientes, agenda, atendimento e prontuário, financeiro e relatórios. A interface atual está concentrada no fluxo de filas e senhas; os demais módulos do MVP ainda estão em desenvolvimento.
 **Tecnologias planejadas/atuais:** React, TypeScript, Vite, Tailwind CSS e Supabase.
 
