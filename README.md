@@ -1,5 +1,7 @@
 # Olá, eu sou Hermani Gonçalves 👋
 
+<img align="right" width="150" src="https://avatars.githubusercontent.com/u/121051569?v=4" alt="Foto de perfil de Hermani Gonçalves" />
+
 **Analista de Sistemas e Desenvolvedor de Soluções**  
 Cursando o 2º período de Análise e Desenvolvimento de Sistemas.
 
@@ -13,6 +15,9 @@ Atuo com implantação e suporte de sistemas de gestão, levantamento de necessi
 - Integrações e automações para atendimento e operação
 
 ## Projetos públicos
+
+### [Express Delivery Pro — site de delivery](https://www.expressdeliverypro.shop/)
+Site para apresentar o serviço de delivery e facilitar o acesso dos clientes às informações e pedidos. [Acessar o site](https://www.expressdeliverypro.shop/).
 
 ### [WhatsApp-Fin — gestão financeira e integração com WhatsApp](https://github.com/hermanigoncalves/WhatsApp-Fin)
 Projeto de gestão financeira com telas para contas, transações, lançamentos recorrentes, recibos, relatórios, orçamento e metas de economia. O repositório inclui um serviço de bot para WhatsApp e testes para lógica financeira, autenticação e schema.
@@ -32,7 +37,7 @@ Sistema de gestão e orçamentos para vidraçarias, com suporte offline e sincro
 Projeto de ERP para clínicas, com arquitetura documentada para administração, pacientes, agenda, atendimento e prontuário, financeiro e relatórios. A interface atual está concentrada no fluxo de filas e senhas; os demais módulos do MVP ainda estão em desenvolvimento.
 **Tecnologias planejadas/atuais:** React, TypeScript, Vite, Tailwind CSS e Supabase.
 
-> Os projetos privados e em desenvolvimento podem ser apresentados em demonstrações autorizadas. Os repositórios públicos acima permitem consultar o código.
+> Os projetos privados e em desenvolvimento podem ser apresentados em demonstrações autorizadas. O repositório público acima permite consultar o código do WhatsApp-Fin.
 
 ## Tecnologias e ferramentas
 
