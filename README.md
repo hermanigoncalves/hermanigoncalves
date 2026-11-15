@@ -1,6 +1,7 @@
 # Olá, eu sou Hermani Gonçalves 👋
 
-**Analista de Sistemas e Desenvolvedor de Soluções**
+**Analista de Sistemas e Desenvolvedor de Soluções**  
+Cursando o 2º período de Análise e Desenvolvimento de Sistemas.
 
 Atuo com implantação e suporte de sistemas de gestão, levantamento de necessidades com clientes e desenvolvimento de soluções para rotinas operacionais. Tenho cerca de **7 anos de experiência com clientes** e participei da implantação de sistemas em **mais de 80 empresas**.
 
