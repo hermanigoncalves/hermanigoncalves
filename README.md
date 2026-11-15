@@ -12,29 +12,35 @@ Atuo com implantação e suporte de sistemas de gestão, levantamento de necessi
 - Desenvolvimento de aplicações web e ferramentas internas
 - Integrações e automações para atendimento e operação
 
-## Projetos em destaque
+## Projetos públicos
+
+### [PedeAí — sistema de operação para restaurantes](https://github.com/hermanigoncalves/pedeaisistema)
+Aplicação para acompanhar pedidos e a operação do restaurante, com visão de mesas e Kanban, painel de cozinha e bar, painel para TV, check-in, conversas e analytics.
+**Tecnologias:** React, TypeScript, Vite, Supabase, Tailwind CSS e Vitest.
+
+### [WhatsApp-Fin — gestão financeira e integração com WhatsApp](https://github.com/hermanigoncalves/WhatsApp-Fin)
+Projeto de gestão financeira com telas para contas, transações, lançamentos recorrentes, recibos, relatórios, orçamento e metas de economia. O repositório inclui um serviço de bot para WhatsApp e testes para lógica financeira, autenticação e schema.
+**Tecnologias:** React, TypeScript, Supabase, Node.js e Baileys.
+
+## Estudos de caso com código privado
 
 ### CMIP Chamador
 Sistema de filas e chamada de senhas para recepção, profissionais de saúde, administração e painéis de TV. O projeto documenta autenticação, atualizações em tempo real e testes automatizados.
-
-**Tecnologias:** React, Vite, Supabase, PostgreSQL e Playwright.  
-**Acesso:** código em repositório privado; demonstração disponível mediante autorização.
+**Tecnologias:** React, Vite, Supabase, PostgreSQL e Playwright.
 
 ### VidroFlow
 Sistema de gestão e orçamentos para vidraçarias, com suporte offline e sincronização posterior. O projeto também documenta geração de PDF e integrações de comunicação.
-
-**Tecnologias:** React, TypeScript, IndexedDB/Dexie e Supabase.  
-**Acesso:** código em repositório privado; demonstração disponível mediante autorização.
+**Tecnologias:** React, TypeScript, IndexedDB/Dexie e Supabase.
 
 ### ERP Saúde (em desenvolvimento)
 Projeto de ERP para clínicas, com arquitetura documentada para administração, pacientes, agenda, atendimento e prontuário, financeiro e relatórios. A interface atual está concentrada no fluxo de filas e senhas; os demais módulos do MVP ainda estão em desenvolvimento.
+**Tecnologias planejadas/atuais:** React, TypeScript, Vite, Tailwind CSS e Supabase.
 
-**Tecnologias planejadas/atuais:** React, TypeScript, Vite, Tailwind CSS e Supabase.  
-**Acesso:** projeto em desenvolvimento; demonstração disponível mediante autorização.
+> Os projetos privados e em desenvolvimento podem ser apresentados em demonstrações autorizadas. Os repositórios públicos acima permitem consultar o código.
 
 ## Tecnologias e ferramentas
 
-React · JavaScript · TypeScript · Node.js · Supabase · PostgreSQL · Vite · Playwright · integrações e automações
+React · JavaScript · TypeScript · Node.js · Supabase · PostgreSQL · Vite · Playwright · Vitest · integrações e automações
 
 ## Contato
 
