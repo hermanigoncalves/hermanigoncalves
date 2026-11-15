@@ -29,6 +29,10 @@ Projeto de gestão financeira com telas para contas, transações, lançamentos 
 Sistema de filas e chamada de senhas para recepção, profissionais de saúde, administração e painéis de TV. O projeto documenta autenticação, atualizações em tempo real e testes automatizados.
 **Tecnologias:** React, Vite, Supabase, PostgreSQL e Playwright.
 
+| Painel de atendimento | Painel da TV |
+|---|---|
+| ![Painel de atendimento do CMIP Chamador](assets/cmip-administracao.png) | ![Painel de TV do CMIP Chamador](assets/cmip-tv.png) |
+
 ### VidroFlow
 Sistema de gestão e orçamentos para vidraçarias, com suporte offline e sincronização posterior. O projeto também documenta geração de PDF e integrações de comunicação.
 **Tecnologias:** React, TypeScript, IndexedDB/Dexie e Supabase.
